@@ -1,0 +1,17 @@
+# models
+*.pt
+
+# dataset
+dataset/
+
+# training outputs
+runs/
+
+# env
+.venv/
+
+# cache
+__pycache__/
+
+# misc
+*.log
